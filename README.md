@@ -1,5 +1,5 @@
 # ShopTable
-Тестовое задание для компании Center of Corporate Solution
+Тестовое задание для компании [Center of Corporate Solution](https://ru-ccs.com/)
 
 ## Тестовое задание часть 1
 
