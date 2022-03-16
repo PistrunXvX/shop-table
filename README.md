@@ -3,6 +3,8 @@
 
 ## Тестовое задание часть 1
 
+> [Вторая часть](https://github.com/PistrunXvX/php-parser-test)
+
 ### Стек
 * Vue3
 * Bootstrap5
